@@ -53,7 +53,6 @@ namespace DotnetAPI.Data
         public virtual DbSet<UserSalary> UsersSalary {get; set;}
         public virtual DbSet<UserJobInfo> UsersJobInfo {get; set;}
         public virtual DbSet<Auth> Auths {get; set;}
-
         public virtual DbSet<Post> Posts {get; set;}
 
 

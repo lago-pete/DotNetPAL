@@ -22,5 +22,9 @@ namespace DotnetAPI.Data
 
         public UserSalary GetUserSalary(int userId);
 
+        public IEnumerable<UserComplete> GetFULLUser();
+
+        public UserComplete GetSingleFULLUser(int userId);
+
     }
 }

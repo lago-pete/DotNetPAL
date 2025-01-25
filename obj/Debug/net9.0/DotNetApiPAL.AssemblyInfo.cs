@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DotNetApiPAL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0b4b99d3dc9d22751c92883ce36d3bec2bb89ba1")]
 [assembly: System.Reflection.AssemblyProductAttribute("DotNetApiPAL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DotNetApiPAL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
